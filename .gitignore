@@ -1,0 +1,48 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+
+# carpeta de eclipse
+.metadata/
+*.x86_64
+*.hex
+metadata/
+RemoteSystemsTempFiles/
+Debug/
+settings/
+.settings/
+*.settings/
+
+# Debug files
+*.dSYM/
+
+# otros
+*.bin
+prueba.txt
+*.orig
+*.log
+*.settings
